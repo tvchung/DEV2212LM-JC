@@ -1,0 +1,42 @@
+-- BACKEND: (JC, SQL, FRAMEWORK SPRINTBOOT)
+--Javacore:
+	1. Ngôn ngữ lập trình Java 
+		- môi trường lập trình (Netbeans; eclipse; ...)
+		- cú pháp
+		- Biến, hằng,kiểu dữ liệu, toán tử, toán hạng, biểu thức
+			câu lệnh, khối lệnh,...
+		- I/O: nhập / xuất 
+		- Các cấu trúc điều khiển: (3 loại)
+			+ Lựa chọn / rẽ nhánh 
+				++) if ( 4 dạng)
+				
+				++) switch
+				
+			+ Lặp (loop)
+				++) for (4 dạng for)
+				
+				++) while
+				
+				++) do...while 
+				
+				++) foreach
+			+ Lệnh nhảy
+				break;
+				continue;
+				return;
+				....
+		- mảng, hàm, xử lý chuỗi,...
+	2. Lập trình hướng đối tượng với java
+		OOP (4 tính chất)
+			Inheristance 	- 	Kế thừa
+			polymorphism 	- 	Đa hình
+			Abstraction 	-	Trừu tượng
+			Enscapsolation	-	Đóng gói
+	3. Ultilites:
+		- Collection / Generic
+		- Exception Handle
+		- Thread
+		- File
+---------------------------------------10b
+		
+		
